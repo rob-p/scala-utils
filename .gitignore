@@ -1,0 +1,31 @@
+## Scala ignores
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+## End of Scala ignores
+
+## Linux ignores
+.*
+*~
+*.sw[a-p]
+
+# KDE
+.directory
+## End of Linux ignores
+
+## Emacs ignores
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+## End of Emacs ignores
