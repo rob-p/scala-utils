@@ -1,4 +1,6 @@
-name := "RobTools"
+name := "scala-utils"
+
+organization := "net.robpatro"
 
 version := "1.0.0"
 
